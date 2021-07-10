@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DLT
 - 💞️ I’m looking to collaborate on anything related to DLT / Blockchain
 - 📫 How to reach me [sankadarshana@gmail.com]
+- 🕊️ "Everyone knew it was impossible. Along came a fool who didn't know and he did it". — Marcel Pagnol
 
 <!---
 SankaD/SankaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
